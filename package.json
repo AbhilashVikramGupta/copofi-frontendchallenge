@@ -1,0 +1,9 @@
+{
+  "name": "frontendchallenge",
+  "version": "1.0.0",
+  "description": "https://github.com/copofijobs/frontendchallenge",
+  "main": "index.js",
+  "repository": "https://github.com/AbhilashVikramGupta/copofi-frontendchallenge",
+  "author": "Abhilash Vikram Gupta <abhilash.vikram.gupta@gmail.com>",
+  "license": "MIT"
+}
